@@ -6,6 +6,7 @@ A passionate full-stack developer from Nairobi, Kenya
 - :seedling: Exploring Machine learning.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gachenge/)
+- <a href="mailto:gachenge1@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
