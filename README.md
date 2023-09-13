@@ -1,15 +1,13 @@
-### Hi there 👋 I am Victor, a full stack developer.
+Hi 👋, I'm Victor Mwangi
+A passionate full-stack developer from Nairobi, Kenya
 
 
-**Gachenge/Gachenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently working on Machine learning
 
-Here are some ideas to get you started:
+💬 Ask me about python, TensorFlow, PyTorch
 
-- 🔭 I’m currently working on Ivy
-- 🌱 I’m currently learning Machine learning
-- 👯 I’m looking to collaborate on Open source projects
-- 🤔 I’m looking for help with Artificial Intelligence
-- 💬 Ask me about Python, web development
-- 📫 How to reach me: Email: gachenge1@gmail.com
-- 😄 Pronouns: He/She
--->
+📫 How to reach me gachenge1@gmail.com
+
+
+Languages and Tools:
+flask django express git javascript python mongodb mysql
