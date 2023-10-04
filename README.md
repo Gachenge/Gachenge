@@ -11,7 +11,6 @@ I’m working as a Software Engineer and contributing to backend for building we
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gachenge&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gachenge&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gachenge&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=Gachenge&icon=0&color=0)](https://visitcount.itsvg.in)
 
