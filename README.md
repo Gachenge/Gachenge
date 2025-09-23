@@ -11,9 +11,6 @@ Welcome to my GitHub space! I’m a passionate software engineer with a love for
   _“Keep learning, stay curious.”_
 - 🌱 **Open Source:**  
   I’m a big fan of open source and excited to contribute to new projects and communities!
-- 🍳 **Hobbies:**  
-  Cooking up new recipes and taking long walks to clear the mind.
-
 ---
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gachenge&theme=dark&hide_border=true)<br/>
